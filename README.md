@@ -1,6 +1,6 @@
 # **Wikipedia Clone**
 
-# Tech Stack:
+# Tech Stack
 - HTML
 - CSS
 - JS
