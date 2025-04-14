@@ -5,3 +5,5 @@
 - CSS
 - JS
 - frontend
+
+# MIT  License
