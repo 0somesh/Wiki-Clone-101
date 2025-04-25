@@ -1,9 +1,10 @@
 # **Wikipedia Clone**
 
 # Tech Stack
+- frontend
 - HTML
 - CSS
 - JS
-- frontend
+
 
 # MIT  License
